@@ -13,7 +13,7 @@ namespace DesignPatterns.HeadFirst.State.After
 
         public void Dispense()
         {
-            _gumballMachine.ReleaseBall();
+            _gumballMachine.Dispense();
             if (_gumballMachine.GetCount() > 0)
             {
                 _gumballMachine.SetState(_gumballMachine.GetNoQuarterState());

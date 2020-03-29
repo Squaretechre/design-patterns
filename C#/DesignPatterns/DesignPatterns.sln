@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.HeadFirst.St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.ZoranHorvat.State", "Behavioral\State\DesignPatterns.ZoranHorvat.State\DesignPatterns.ZoranHorvat.State.csproj", "{48ABFDE3-4AD5-4B5A-B425-3882C29BEC80}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builder", "Builder", "{781A45DE-9B3A-4468-8BE0-F62466DB407A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.JohnSonmez.Builder", "Creational\Builder\DesignPatterns.JohnSonmez.Builder\DesignPatterns.JohnSonmez.Builder.csproj", "{7499ABB8-9B08-4033-BC1C-12766F51D2C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,10 @@ Global
 		{48ABFDE3-4AD5-4B5A-B425-3882C29BEC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48ABFDE3-4AD5-4B5A-B425-3882C29BEC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48ABFDE3-4AD5-4B5A-B425-3882C29BEC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7499ABB8-9B08-4033-BC1C-12766F51D2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7499ABB8-9B08-4033-BC1C-12766F51D2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7499ABB8-9B08-4033-BC1C-12766F51D2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7499ABB8-9B08-4033-BC1C-12766F51D2C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -108,6 +116,8 @@ Global
 		{BB41E363-FDF3-470F-9E14-4C1C19C37823} = {EA02501E-7669-46C8-869A-02ABE25AC4FD}
 		{1224BF4F-C63E-41F1-BF98-75A767B94DA5} = {EA02501E-7669-46C8-869A-02ABE25AC4FD}
 		{48ABFDE3-4AD5-4B5A-B425-3882C29BEC80} = {EA02501E-7669-46C8-869A-02ABE25AC4FD}
+		{781A45DE-9B3A-4468-8BE0-F62466DB407A} = {06513B05-A8EE-438A-9AA7-20D0ACB572A2}
+		{7499ABB8-9B08-4033-BC1C-12766F51D2C3} = {781A45DE-9B3A-4468-8BE0-F62466DB407A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {17A88B47-6867-47C8-80E4-4BCE71E3DAF2}

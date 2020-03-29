@@ -44,16 +44,11 @@ namespace DesignPatterns.HeadFirst.State.After
         public void TurnCrank()
         {
             _state.TurnCrank();
-            _state.Dispense();
         }
 
-        public void ReleaseBall()
+        public void Dispense()
         {
-            Console.WriteLine("A gumball comes rolling out the slot...");
-            if (_count != 0)
-            {
-                _count -= 1;
-            }
+            _state.Dispense();
         }
 
         public int GetCount()
