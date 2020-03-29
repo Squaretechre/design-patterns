@@ -23,27 +23,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapter", "Adapter", "{B021FADD-130E-4E36-A244-B01BEC2B2D50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.GangOfFour.Adapter", "Structural\Adapter\DesignPatterns.GangOfFour.Adapter\DesignPatterns.GangOfFour.Adapter.csproj", "{84FF3344-8B5A-46E8-B5FB-F39D6FD4F83C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.GangOfFour.Adapter", "Structural\Adapter\DesignPatterns.GangOfFour.Adapter\DesignPatterns.GangOfFour.Adapter.csproj", "{84FF3344-8B5A-46E8-B5FB-F39D6FD4F83C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.HeadFirst.Adapter", "Structural\Adapter\DesignPatterns.HeadFirst.Adapter\DesignPatterns.HeadFirst.Adapter.csproj", "{CD2F75EB-F57D-4622-92BF-4481090D0960}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.HeadFirst.Adapter", "Structural\Adapter\DesignPatterns.HeadFirst.Adapter\DesignPatterns.HeadFirst.Adapter.csproj", "{CD2F75EB-F57D-4622-92BF-4481090D0960}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChainOfResponsibility", "ChainOfResponsibility", "{C974F436-2AF8-47F2-B1B2-AAD8692C5C39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.BryanHansen.ChainOfResponsibility", "Behavioral\ChainOfResponsibility\DesignPatterns.BryanHansen.ChainOfResponsibility\DesignPatterns.BryanHansen.ChainOfResponsibility.csproj", "{10D14CC5-82F3-4318-8342-1A4284722467}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.BryanHansen.ChainOfResponsibility", "Behavioral\ChainOfResponsibility\DesignPatterns.BryanHansen.ChainOfResponsibility\DesignPatterns.BryanHansen.ChainOfResponsibility.csproj", "{10D14CC5-82F3-4318-8342-1A4284722467}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.GangOfFour.ChainOfResponsibility", "Behavioral\ChainOfResponsibility\DesignPatterns.GangOfFour.ChainOfResponsibility\DesignPatterns.GangOfFour.ChainOfResponsibility.csproj", "{22D99F82-4100-437D-95CC-AE4588F2E087}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.GangOfFour.ChainOfResponsibility", "Behavioral\ChainOfResponsibility\DesignPatterns.GangOfFour.ChainOfResponsibility\DesignPatterns.GangOfFour.ChainOfResponsibility.csproj", "{22D99F82-4100-437D-95CC-AE4588F2E087}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "State", "State", "{EA02501E-7669-46C8-869A-02ABE25AC4FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.GangOfFour.State", "Behavioral\State\DesignPatterns.GangOfFour.State\DesignPatterns.GangOfFour.State.csproj", "{BB41E363-FDF3-470F-9E14-4C1C19C37823}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.GangOfFour.State", "Behavioral\State\DesignPatterns.GangOfFour.State\DesignPatterns.GangOfFour.State.csproj", "{BB41E363-FDF3-470F-9E14-4C1C19C37823}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.HeadFirst.State", "Behavioral\State\DesignPatterns.HeadFirst.State\DesignPatterns.HeadFirst.State.csproj", "{1224BF4F-C63E-41F1-BF98-75A767B94DA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.HeadFirst.State", "Behavioral\State\DesignPatterns.HeadFirst.State\DesignPatterns.HeadFirst.State.csproj", "{1224BF4F-C63E-41F1-BF98-75A767B94DA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.ZoranHorvat.State", "Behavioral\State\DesignPatterns.ZoranHorvat.State\DesignPatterns.ZoranHorvat.State.csproj", "{48ABFDE3-4AD5-4B5A-B425-3882C29BEC80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.ZoranHorvat.State", "Behavioral\State\DesignPatterns.ZoranHorvat.State\DesignPatterns.ZoranHorvat.State.csproj", "{48ABFDE3-4AD5-4B5A-B425-3882C29BEC80}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builder", "Builder", "{781A45DE-9B3A-4468-8BE0-F62466DB407A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.JohnSonmez.Builder", "Creational\Builder\DesignPatterns.JohnSonmez.Builder\DesignPatterns.JohnSonmez.Builder.csproj", "{7499ABB8-9B08-4033-BC1C-12766F51D2C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.JohnSonmez.Builder", "Creational\Builder\DesignPatterns.JohnSonmez.Builder\DesignPatterns.JohnSonmez.Builder.csproj", "{7499ABB8-9B08-4033-BC1C-12766F51D2C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other", "Other", "{C27B17E7-1556-414C-AB4D-87E70B1E5488}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specification", "Specification", "{AD192840-53B3-45A2-9E7B-55A692E740B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.SteveSmith.Specification", "Other\Specification\DesignPatterns.SteveSmith.Specification\DesignPatterns.SteveSmith.Specification.csproj", "{020B2B08-8185-4581-9783-2D20F5BA754D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,6 +101,10 @@ Global
 		{7499ABB8-9B08-4033-BC1C-12766F51D2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7499ABB8-9B08-4033-BC1C-12766F51D2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7499ABB8-9B08-4033-BC1C-12766F51D2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020B2B08-8185-4581-9783-2D20F5BA754D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020B2B08-8185-4581-9783-2D20F5BA754D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020B2B08-8185-4581-9783-2D20F5BA754D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020B2B08-8185-4581-9783-2D20F5BA754D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +128,8 @@ Global
 		{48ABFDE3-4AD5-4B5A-B425-3882C29BEC80} = {EA02501E-7669-46C8-869A-02ABE25AC4FD}
 		{781A45DE-9B3A-4468-8BE0-F62466DB407A} = {06513B05-A8EE-438A-9AA7-20D0ACB572A2}
 		{7499ABB8-9B08-4033-BC1C-12766F51D2C3} = {781A45DE-9B3A-4468-8BE0-F62466DB407A}
+		{AD192840-53B3-45A2-9E7B-55A692E740B8} = {C27B17E7-1556-414C-AB4D-87E70B1E5488}
+		{020B2B08-8185-4581-9783-2D20F5BA754D} = {AD192840-53B3-45A2-9E7B-55A692E740B8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {17A88B47-6867-47C8-80E4-4BCE71E3DAF2}

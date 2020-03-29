@@ -643,6 +643,19 @@ temp/
 # Ignore all local history of files
 .history
 
+# Created by https://www.gitignore.io/api/ncrunch
+# Edit at https://www.gitignore.io/?templates=ncrunch
+
+### NCrunch ###
+# NCrunch
+*.ncrunch*
+_NCrunch_*
+*.crunch.xml
+*.ncrunchsolution*
+nCrunchTemp_*
+
+# End of https://www.gitignore.io/api/ncrunch
+
 ### VisualStudio ###
 
 # User-specific files
